@@ -8,11 +8,11 @@
 # Wallison Borges
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Estudante de TI procurando uma oportunidade de executar os conhecimentos e potenciais adquiridos durante meus estudos e formações. Atualmente me dedicando a aprender cada vez mais programação, com o desenvolvimento de pequenos projetos em Python, almejando me tornar um Cientista de dados.
+Também sou formado em Engenharia ambiental e sanitária, na Universidade Estácio de Sá, com MBA em meio ambiente e desenvolvimento sustentável. 
+Atuei durante 02 anos no projeto de pesquisa de avaliação da integração da conversão química, bioquímica e termoquímica de biomassa para a produção de Biocombustíveis de primeira e segunda geração, onde eu era responsável por coletar e tratar dados sobre diferentes tipos de biomassa disponíveis na região de Campos dos Goytacazes, com intuito de verificar a viabilidade da produção de bioprodutos sustentáveis, principalmente Biocombustíveis, eu desenvolvi um pensamento crítico e habilidades de resolução de problemas
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
-
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Machine Learning, Data Science, Engenharia Ambiental e Desenvolvimento sustentável.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/wallison-borges-48312516a/)
