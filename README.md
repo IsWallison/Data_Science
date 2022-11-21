@@ -16,7 +16,7 @@ Atuei durante 02 anos no projeto de pesquisa de avaliação da integração da c
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/wallison-borges-48312516a/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@itzborges)
 
 
 ## Projetos:
