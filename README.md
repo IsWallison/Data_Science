@@ -6,7 +6,7 @@
 </p>
 
 # Wallison Borges
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Engenheiro Ambiental e Ciêntista de Dados* </sub>
 
 Estudante de TI procurando uma oportunidade de executar os conhecimentos e potenciais adquiridos durante meus estudos e formações. Atualmente me dedicando a aprender cada vez mais programação, com o desenvolvimento de pequenos projetos em Python, almejando me tornar um Cientista de dados.
 Também sou formado em Engenharia ambiental e sanitária, na Universidade Estácio de Sá, com MBA em meio ambiente e desenvolvimento sustentável. 
@@ -20,3 +20,4 @@ Atuei durante 02 anos no projeto de pesquisa de avaliação da integração da c
 
 
 ## Projetos:
+* Análise dos Dados do Airbnb - New Brunswick, Canada - https://bit.ly/wallison-airbnb-project
