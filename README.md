@@ -22,3 +22,4 @@ Atuei durante 02 anos no projeto de pesquisa de avaliação da integração da c
 ## Projetos:
 * Análise dos Dados do Airbnb - New Brunswick, Canada - https://bit.ly/wallison-airbnb-project
 * Panorama do COVID-19 no Brasil e no Mundo - https://github.com/IsWallison/Panorama_COVID_19
+* Detecção de Fraude em Cartões de Crédito - https://github.com/IsWallison/Deteccao_de_Fraude
