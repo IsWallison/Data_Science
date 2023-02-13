@@ -8,9 +8,7 @@
 # Wallison Borges
 <sub>*Engenheiro Ambiental e Ciêntista de Dados* </sub>
 
-Estudante de TI procurando uma oportunidade de executar os conhecimentos e potenciais adquiridos durante meus estudos e formações. Atualmente me dedicando a aprender cada vez mais programação, com o desenvolvimento de pequenos projetos em Python, almejando me tornar um Cientista de dados.
-Também sou formado em Engenharia ambiental e sanitária, na Universidade Estácio de Sá, com MBA em meio ambiente e desenvolvimento sustentável. 
-Atuei durante 02 anos no projeto de pesquisa de avaliação da integração da conversão química, bioquímica e termoquímica de biomassa para a produção de Biocombustíveis de primeira e segunda geração, onde eu era responsável por coletar e tratar dados sobre diferentes tipos de biomassa disponíveis na região de Campos dos Goytacazes, com intuito de verificar a viabilidade da produção de bioprodutos sustentáveis, principalmente Biocombustíveis, eu desenvolvi um pensamento crítico e habilidades de resolução de problemas
+Meu nome é Wallison, era uma vez um engenheiro ambiental que descobriu data science. Sou apaixonado por tecnologias, e acredito que os dados podem ser usadas para resolver problemas ambientais e economicos e sociais.
 
 **Background in:** Python, Machine Learning, Data Science, Engenharia Ambiental e Desenvolvimento sustentável.
 
