@@ -21,3 +21,4 @@ Meu nome é Wallison e era uma vez um engenheiro ambiental que descobriu data Sc
 * Análise dos Dados do Airbnb - New Brunswick, Canada - https://bit.ly/wallison-airbnb-project
 * Panorama do COVID-19 no Brasil e no Mundo - https://github.com/IsWallison/Panorama_COVID_19
 * Detecção de Fraude em Cartões de Crédito - https://github.com/IsWallison/Deteccao_de_Fraude
+* Projeto Churn Prediction para uma empresa de Telecomunicações - https://github.com/IsWallison/Projeto_Churn_Prediction
